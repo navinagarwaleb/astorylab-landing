@@ -10,8 +10,8 @@ To get the website running locally on your computer, follow these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd "ASL Website"
+   git clone https://github.com/navinagarwaleb/astorylab-landing.git
+   cd astorylab-landing
    ```
 
 2. **Install the dependencies:**
@@ -44,7 +44,7 @@ This project is configured for continuous delivery via **Vercel**:
 
 ## 🎨 Brand Design System
 
-All design elements of this website strictly adhere to the brand guidelines defined in [AStoryLab_Brand_Guidelines.docx](file:///c:/Users/agarw/OneDrive/Documents/AI%20Project/Antigravity/ASL%20Website/AStoryLab_Brand_Guidelines.docx).
+All design elements of this website strictly adhere to the brand guidelines defined in [AStoryLab_Brand_Guidelines.docx](AStoryLab_Brand_Guidelines.docx).
 
 ### 🎨 Color Palette (60-30-10 Rule)
 * **Primary Background (60%):** Deep Teal — `#124E52` (Conveys cultural depth, heritage, and premium quality)
